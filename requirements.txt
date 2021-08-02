@@ -3,7 +3,8 @@ numpy==1.18.5
 rank-bm25==0.2.1
 packaging==20.8
 pandas==1.1.5
-gunicorn==20.0.4
-pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.5
+gunicorn==20.0.4
+pyparsing==2.4.7
+
