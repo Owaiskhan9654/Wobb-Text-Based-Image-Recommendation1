@@ -25,4 +25,5 @@ def rank(query):
     tokenized_query = query.split(" ")
 
     list1 = bm25.get_top_n(tokenized_query, Image_Mappings, n=3)
+    
     return list1,query
