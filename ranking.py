@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-import nltk.data
-import pickle
 from rank_bm25 import BM25Okapi
 
 
